@@ -13,7 +13,7 @@ This is a collaboration project intended for IT-390. It main theoretical purpose
 - git clone https://github.com/gavisito/LogoGenieHelper.git
 - git checkout -b your-name-here
 2. Install the dependencies:
-    - pip install -r requiremetns.txt
+    - pip install -r requirements.txt
     - create openai account
     - generate an api key
     - create openai_config.py file to input your api key with OPENAI_API_KEY as variable to import into app.py
